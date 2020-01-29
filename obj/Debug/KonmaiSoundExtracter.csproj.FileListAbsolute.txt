@@ -1,0 +1,12 @@
+C:\Users\DHL\source\repos\KonmaiSoundExtracter\KonmaiSoundExtracter\bin\Debug\KonmaiSoundExtracter.exe.config
+C:\Users\DHL\source\repos\KonmaiSoundExtracter\KonmaiSoundExtracter\bin\Debug\KonmaiSoundExtracter.exe
+C:\Users\DHL\source\repos\KonmaiSoundExtracter\KonmaiSoundExtracter\bin\Debug\KonmaiSoundExtracter.pdb
+C:\Users\DHL\source\repos\KonmaiSoundExtracter\KonmaiSoundExtracter\obj\Debug\KonmaiSoundExtracter.csprojAssemblyReference.cache
+C:\Users\DHL\source\repos\KonmaiSoundExtracter\KonmaiSoundExtracter\obj\Debug\KonmaiSoundExtracter.Form1.resources
+C:\Users\DHL\source\repos\KonmaiSoundExtracter\KonmaiSoundExtracter\obj\Debug\KonmaiSoundExtracter.Properties.Resources.resources
+C:\Users\DHL\source\repos\KonmaiSoundExtracter\KonmaiSoundExtracter\obj\Debug\KonmaiSoundExtracter.csproj.GenerateResource.cache
+C:\Users\DHL\source\repos\KonmaiSoundExtracter\KonmaiSoundExtracter\obj\Debug\KonmaiSoundExtracter.exe
+C:\Users\DHL\source\repos\KonmaiSoundExtracter\KonmaiSoundExtracter\obj\Debug\KonmaiSoundExtracter.pdb
+C:\Users\DHL\source\repos\KonmaiSoundExtracter\KonmaiSoundExtracter\bin\Debug\NAudio.dll
+C:\Users\DHL\source\repos\KonmaiSoundExtracter\KonmaiSoundExtracter\bin\Debug\NAudio.xml
+C:\Users\DHL\source\repos\KonmaiSoundExtracter\KonmaiSoundExtracter\obj\Debug\KonmaiSoundExtracter.csproj.CopyComplete
